@@ -45,6 +45,8 @@
     ¿Que problematica soluciona?
     
     <br />
+  </p>
+</div>
     ### Construido con:
 
     * [![Next][Next.js]][Next-url]
@@ -55,9 +57,6 @@
     * [![Laravel][Laravel.com]][Laravel-url]
     * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
     * [![JQuery][JQuery.com]][JQuery-url]
-  </p>
-</div>
-
 
 
 <!-- TABLE OF CONTENTS -->
