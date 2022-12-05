@@ -46,7 +46,7 @@
     <br />
   </p>
 </div>
-   ### Construido con:
+### Construido con:
     
   * [![Next][Next.js]][Next-url]
   * [![React][React.js]][React-url]
@@ -56,6 +56,7 @@
   * [![Laravel][Laravel.com]][Laravel-url]
   * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
   * [![JQuery][JQuery.com]][JQuery-url]
+  * [![Axios][Axios.com]][Axios-url]
 
 
 <!-- TABLE OF CONTENTS -->
