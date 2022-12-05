@@ -43,11 +43,10 @@
     <br />
     <br />
     ¿Que problematica soluciona?
-    
     <br />
   </p>
 </div>
-    ### Construido con:
+   ### Construido con:
     
   * [![Next][Next.js]][Next-url]
   * [![React][React.js]][React-url]
