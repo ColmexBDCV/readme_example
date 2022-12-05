@@ -46,8 +46,8 @@
     <br />
   </p>
 </div>
+
 ### Construido con:
-    
   * [![Next][Next.js]][Next-url]
   * [![React][React.js]][React-url]
   * [![Vue][Vue.js]][Vue-url]
@@ -56,7 +56,8 @@
   * [![Laravel][Laravel.com]][Laravel-url]
   * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
   * [![JQuery][JQuery.com]][JQuery-url]
-  * [![Axios][Axios.com]][Axios-url]
+  * [![Axios][Axios.io]][Axios-url]
+  * [![Axios][Django.io]][Django-url]
 
 
 <!-- TABLE OF CONTENTS -->
@@ -95,12 +96,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Comenzando
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Pre requisitos
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -108,7 +109,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Instalación
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -129,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Modo de uso
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -139,22 +140,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
-## Contributing
+## Creditos
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -172,7 +159,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -181,7 +168,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
@@ -189,16 +176,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -232,4 +209,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+[Axios-url]: https://axios-http.com
+[Axios.io]: https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=5A29E4&color=ECECEC
+[Django-url]: https://www.djangoproject.com/
+[Django.io]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20&color=D2E7CC
